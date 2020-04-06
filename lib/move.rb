@@ -9,6 +9,3 @@ end
 def input_to_index(input)
   index.to_i - 1 
 end
-def input(board, index, X)
-end
- 
